@@ -13,9 +13,17 @@ _服务器类型：Java
 >1.下载游戏
 >2.安装mod
 >3.进入游戏
-## 联系腐竹|Contact the owner
+## 联系腐竹&管理员|Contact the owner
+>腐竹：Alice_Ctoy
 E-mail：<yh_zn00@163.com>
 QQ：1694685419
+
+>管理员：Mipxer_Adesqaq
+QQ：3953134146
+已经过本人同意
+![image](https://github.com/user-attachments/assets/79835eab-6007-452c-bbb9-5288d41e72cf)
+![image](https://github.com/user-attachments/assets/3dd9c3c7-7be9-4ccd-8316-318d8e448d6a)
+
 ## 服务器公告
 #### 服务器管理员申请准则
 1.近 30 天至少游玩 2 次服务器
